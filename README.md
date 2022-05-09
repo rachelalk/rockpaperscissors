@@ -12,3 +12,4 @@
         <li> If statements were used to generate an outcome of each game, the outcome was saved to a variable which was called upon for scoring.
           <li> I was really please with how this turned out, having completed the task within 1 day and this being my first attempt at a hackathon.
             </ul>
+<p>View the page <a href="https://rachelalk.github.io/rockpaperscissors/">here</a>.
